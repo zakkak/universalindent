@@ -88,191 +88,191 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>IndentHandler</name>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="536"/>
+        <location filename="../src/IndentHandler.cpp" line="540"/>
         <source>No indenter executable</source>
         <translation>インデントツールの実行ファイルがありません</translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="1447"/>
+        <location filename="../src/IndentHandler.cpp" line="1451"/>
         <source>wine not installed</source>
         <translation>wine がインストールされていません</translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="1447"/>
+        <location filename="../src/IndentHandler.cpp" line="1451"/>
         <source>There exists only a win32 executable of the indenter and wine does not seem to be installed. Please install wine to be able to run the indenter.</source>
         <translation>インデントツールの実行ファイルは win32 形式のものしか存在しません。インデントツールを実行するために wine をインストールしてください。 </translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="564"/>
+        <location filename="../src/IndentHandler.cpp" line="568"/>
         <source>&lt;b&gt;Returned error message:&lt;/b&gt; </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="568"/>
+        <location filename="../src/IndentHandler.cpp" line="572"/>
         <source>&lt;b&gt;Reason could be:&lt;/b&gt; </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="595"/>
+        <location filename="../src/IndentHandler.cpp" line="599"/>
         <source>Error calling Indenter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="603"/>
+        <location filename="../src/IndentHandler.cpp" line="607"/>
         <source>&lt;b&gt;Indenter returned with exit code:&lt;/b&gt; </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="604"/>
+        <location filename="../src/IndentHandler.cpp" line="608"/>
         <source>&lt;b&gt;Indent console output was:&lt;/b&gt; </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="588"/>
-        <location filename="../src/IndentHandler.cpp" line="607"/>
+        <location filename="../src/IndentHandler.cpp" line="592"/>
+        <location filename="../src/IndentHandler.cpp" line="611"/>
         <source>&lt;br&gt;&lt;b&gt;Callstring was:&lt;/b&gt; </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="192"/>
+        <location filename="../src/IndentHandler.cpp" line="196"/>
         <source>No indenter ini files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="192"/>
+        <location filename="../src/IndentHandler.cpp" line="196"/>
         <source>There exists no indenter ini files in the directory &quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="537"/>
+        <location filename="../src/IndentHandler.cpp" line="541"/>
         <source>There exists no indenter executable with the name &quot;%1&quot; in the directory &quot;%2&quot; nor in the global environment.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="589"/>
+        <location filename="../src/IndentHandler.cpp" line="593"/>
         <source>&lt;br&gt;&lt;br&gt;&lt;b&gt;Indenter output was:&lt;/b&gt;&lt;pre&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="611"/>
+        <location filename="../src/IndentHandler.cpp" line="615"/>
         <source>Indenter returned error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="944"/>
+        <location filename="../src/IndentHandler.cpp" line="948"/>
         <source>Indenter ini file header error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="945"/>
+        <location filename="../src/IndentHandler.cpp" line="949"/>
         <source>The loaded indenter ini file &quot;%1&quot;has a faulty header. At least the indenters file name is not set.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="1402"/>
+        <location filename="../src/IndentHandler.cpp" line="1406"/>
         <source>Interpreter needed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="1403"/>
+        <location filename="../src/IndentHandler.cpp" line="1407"/>
         <source>To use the selected indenter the program &quot;%1&quot; needs to be available in the global environment. You should add an entry to your path settings.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="1493"/>
+        <location filename="../src/IndentHandler.cpp" line="1497"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;/head&gt;&lt;body style=&quot; white-space: pre-wrap; font-family:MS Shell Dlg; font-size:8.25pt; font-weight:400; font-style:normal; text-decoration:none;&quot;&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Shows the currently chosen indenters name and lets you choose other available indenters&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="1494"/>
-        <source>Brings you to the online manual of the currently selected indenter, where you can get further help on the possible parameters.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/IndentHandler.cpp" line="1505"/>
-        <location filename="../src/IndentHandler.cpp" line="1506"/>
-        <source>Create a shell script that calls the current selected indenter for formatting an as parameter given file with the current indent settings.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/IndentHandler.cpp" line="1538"/>
-        <source>Choose indenter config file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/IndentHandler.cpp" line="1554"/>
-        <location filename="../src/IndentHandler.cpp" line="1583"/>
-        <source>All files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/IndentHandler.cpp" line="1557"/>
-        <source>Save indent config file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/IndentHandler.cpp" line="1583"/>
-        <source>Shell Script</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/IndentHandler.cpp" line="1588"/>
-        <source>Save shell script</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/IndentHandler.cpp" line="1496"/>
-        <source>Load Indenter Config File</source>
-        <translation>インデントツールの設定ファイルを開く</translation>
-    </message>
-    <message>
-        <location filename="../src/IndentHandler.cpp" line="1497"/>
-        <source>Opens a file dialog to load the original config file of the indenter.</source>
-        <translation>インデントツールの設定ファイルの読み込みダイアログを開きます。</translation>
-    </message>
-    <message>
         <location filename="../src/IndentHandler.cpp" line="1498"/>
-        <source>Alt+O</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/IndentHandler.cpp" line="1500"/>
-        <source>Save Indenter Config File</source>
-        <translation>インデントツールの設定ファイルを保存</translation>
-    </message>
-    <message>
-        <location filename="../src/IndentHandler.cpp" line="1501"/>
-        <source>Opens a dialog to save the current indenter configuration to a file.</source>
-        <translation>現在のインデントツールの設定をファイルに保存するためのダイアログを開きます。</translation>
-    </message>
-    <message>
-        <location filename="../src/IndentHandler.cpp" line="1502"/>
-        <source>Alt+S</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/IndentHandler.cpp" line="1504"/>
-        <source>Create Indenter Call Shell Script</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/IndentHandler.cpp" line="1508"/>
-        <source>Reset indenter parameters</source>
+        <source>Brings you to the online manual of the currently selected indenter, where you can get further help on the possible parameters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/IndentHandler.cpp" line="1509"/>
         <location filename="../src/IndentHandler.cpp" line="1510"/>
+        <source>Create a shell script that calls the current selected indenter for formatting an as parameter given file with the current indent settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/IndentHandler.cpp" line="1542"/>
+        <source>Choose indenter config file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/IndentHandler.cpp" line="1558"/>
+        <location filename="../src/IndentHandler.cpp" line="1587"/>
+        <source>All files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/IndentHandler.cpp" line="1561"/>
+        <source>Save indent config file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/IndentHandler.cpp" line="1587"/>
+        <source>Shell Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/IndentHandler.cpp" line="1592"/>
+        <source>Save shell script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/IndentHandler.cpp" line="1500"/>
+        <source>Load Indenter Config File</source>
+        <translation>インデントツールの設定ファイルを開く</translation>
+    </message>
+    <message>
+        <location filename="../src/IndentHandler.cpp" line="1501"/>
+        <source>Opens a file dialog to load the original config file of the indenter.</source>
+        <translation>インデントツールの設定ファイルの読み込みダイアログを開きます。</translation>
+    </message>
+    <message>
+        <location filename="../src/IndentHandler.cpp" line="1502"/>
+        <source>Alt+O</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/IndentHandler.cpp" line="1504"/>
+        <source>Save Indenter Config File</source>
+        <translation>インデントツールの設定ファイルを保存</translation>
+    </message>
+    <message>
+        <location filename="../src/IndentHandler.cpp" line="1505"/>
+        <source>Opens a dialog to save the current indenter configuration to a file.</source>
+        <translation>現在のインデントツールの設定をファイルに保存するためのダイアログを開きます。</translation>
+    </message>
+    <message>
+        <location filename="../src/IndentHandler.cpp" line="1506"/>
+        <source>Alt+S</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/IndentHandler.cpp" line="1508"/>
+        <source>Create Indenter Call Shell Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/IndentHandler.cpp" line="1512"/>
+        <source>Reset indenter parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/IndentHandler.cpp" line="1513"/>
+        <location filename="../src/IndentHandler.cpp" line="1514"/>
         <source>Resets all indenter parameters to the default values.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="1628"/>
+        <location filename="../src/IndentHandler.cpp" line="1632"/>
         <source>Really reset parameters?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/IndentHandler.cpp" line="1628"/>
+        <location filename="../src/IndentHandler.cpp" line="1632"/>
         <source>Do you really want to reset the indenter parameters to the default values?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -280,97 +280,97 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../src/MainWindow.cpp" line="410"/>
-        <location filename="../src/MainWindow.cpp" line="1137"/>
+        <location filename="../src/MainWindow.cpp" line="408"/>
+        <location filename="../src/MainWindow.cpp" line="1135"/>
         <source>Error opening file</source>
         <translation>ファイルの読み込みエラーが発生しました</translation>
     </message>
     <message>
-        <location filename="../src/MainWindow.cpp" line="410"/>
-        <location filename="../src/MainWindow.cpp" line="1137"/>
+        <location filename="../src/MainWindow.cpp" line="408"/>
+        <location filename="../src/MainWindow.cpp" line="1135"/>
         <source>Cannot read the file </source>
         <translation>次のファイルを開けませんでした。: </translation>
     </message>
     <message>
-        <location filename="../src/MainWindow.cpp" line="441"/>
-        <location filename="../src/MainWindow.cpp" line="481"/>
+        <location filename="../src/MainWindow.cpp" line="439"/>
+        <location filename="../src/MainWindow.cpp" line="479"/>
         <source>Supported by indenter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/MainWindow.cpp" line="442"/>
-        <location filename="../src/MainWindow.cpp" line="482"/>
+        <location filename="../src/MainWindow.cpp" line="440"/>
+        <location filename="../src/MainWindow.cpp" line="480"/>
         <source>All files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/MainWindow.cpp" line="446"/>
+        <location filename="../src/MainWindow.cpp" line="444"/>
         <source>Choose source code file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/MainWindow.cpp" line="485"/>
+        <location filename="../src/MainWindow.cpp" line="483"/>
         <source>Save source code file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/MainWindow.cpp" line="861"/>
+        <location filename="../src/MainWindow.cpp" line="859"/>
         <source>PDF Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/MainWindow.cpp" line="868"/>
-        <location filename="../src/MainWindow.cpp" line="890"/>
+        <location filename="../src/MainWindow.cpp" line="866"/>
+        <location filename="../src/MainWindow.cpp" line="888"/>
         <source>Export source code file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/MainWindow.cpp" line="883"/>
+        <location filename="../src/MainWindow.cpp" line="881"/>
         <source>HTML Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/MainWindow.cpp" line="1021"/>
+        <location filename="../src/MainWindow.cpp" line="1019"/>
         <source>Modified code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/MainWindow.cpp" line="1022"/>
+        <location filename="../src/MainWindow.cpp" line="1020"/>
         <source>The source code has been modified.
 Do you want to save your changes?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/MainWindow.cpp" line="1088"/>
-        <location filename="../src/MainWindow.cpp" line="1224"/>
+        <location filename="../src/MainWindow.cpp" line="1086"/>
+        <location filename="../src/MainWindow.cpp" line="1222"/>
         <source>Reopen the currently opened source code file by using the text encoding scheme </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/MainWindow.cpp" line="1167"/>
-        <location filename="../src/MainWindow.cpp" line="1238"/>
+        <location filename="../src/MainWindow.cpp" line="1165"/>
+        <location filename="../src/MainWindow.cpp" line="1236"/>
         <source>Set the syntax highlightning to </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/MainWindow.cpp" line="1381"/>
+        <location filename="../src/MainWindow.cpp" line="1379"/>
         <source>File no longer exists</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/MainWindow.cpp" line="1381"/>
+        <location filename="../src/MainWindow.cpp" line="1379"/>
         <source>The file %1 in the list of recently opened files does no longer exist.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/MainWindow.cpp" line="1096"/>
-        <location filename="../src/MainWindow.cpp" line="1230"/>
+        <location filename="../src/MainWindow.cpp" line="1094"/>
+        <location filename="../src/MainWindow.cpp" line="1228"/>
         <source>Save the currently opened source code file by using the text encoding scheme </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/MainWindow.cpp" line="284"/>
-        <location filename="../src/MainWindow.cpp" line="1429"/>
+        <location filename="../src/MainWindow.cpp" line="1427"/>
         <source>Line %1, Column %2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1043,51 +1043,51 @@ Do you want to save your changes?</source>
     <name>UpdateCheckDialog</name>
     <message>
         <location filename="../src/UpdateCheckDialog.ui" line="17"/>
-        <location filename="../src/UpdateCheckDialog.cpp" line="194"/>
+        <location filename="../src/UpdateCheckDialog.cpp" line="204"/>
         <source>Checking for update...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/UpdateCheckDialog.ui" line="23"/>
-        <location filename="../src/UpdateCheckDialog.cpp" line="195"/>
+        <location filename="../src/UpdateCheckDialog.cpp" line="205"/>
         <source>Checking whether a newer version is available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/UpdateCheckDialog.cpp" line="166"/>
-        <location filename="../src/UpdateCheckDialog.cpp" line="171"/>
+        <location filename="../src/UpdateCheckDialog.cpp" line="175"/>
+        <location filename="../src/UpdateCheckDialog.cpp" line="180"/>
         <source>Update check error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/UpdateCheckDialog.cpp" line="166"/>
+        <location filename="../src/UpdateCheckDialog.cpp" line="175"/>
         <source>There was an error while trying to check for an update! The retrieved file did not contain expected content.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/UpdateCheckDialog.cpp" line="171"/>
+        <location filename="../src/UpdateCheckDialog.cpp" line="180"/>
         <source>There was an error while trying to check for an update! Error was : %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/UpdateCheckDialog.cpp" line="206"/>
+        <location filename="../src/UpdateCheckDialog.cpp" line="216"/>
         <source>Update available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/UpdateCheckDialog.cpp" line="207"/>
+        <location filename="../src/UpdateCheckDialog.cpp" line="217"/>
         <source>A newer version of UniversalIndentGUI is available.
 Your version is %1. New version is %2.
 Do you want to go to the download website?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/UpdateCheckDialog.cpp" line="218"/>
+        <location filename="../src/UpdateCheckDialog.cpp" line="228"/>
         <source>No new update available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/UpdateCheckDialog.cpp" line="219"/>
+        <location filename="../src/UpdateCheckDialog.cpp" line="229"/>
         <source>You already have the latest version of UniversalIndentGUI.</source>
         <translation type="unfinished"></translation>
     </message>
