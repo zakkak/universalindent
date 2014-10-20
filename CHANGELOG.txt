@@ -1,3 +1,6 @@
+2013-10-20 Version 1.2.1
+[add] Updated the Uncrustify configuration to support Uncrustify version 0.60.
+
 2012-01-01 Version 1.2.0
 [add] The Linux version has a menu entry in the application development menu now.
 [add] The Linux version has a mime type association to some code files now, so that UiGUI is available as "open with".
@@ -253,7 +256,7 @@
 [fix] the file extension used to call the selected indenter. It is now equal to the loaded source file extension so the indenter recognizes the source code language
 [fix] unnecessary calls of the indenter removed
 [fix] indenter was not called if preview was activated and indenter changed
-[fix] under linux the file mask for the open source file dialog did not work correctly 
+[fix] under linux the file mask for the open source file dialog did not work correctly
 
 2006-07-16 Version 0.2.3 Alpha
 [add] possibility to edit the source code while preview is active and see how it is formatted. So that is real live ;-)

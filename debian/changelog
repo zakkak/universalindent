@@ -1,3 +1,10 @@
+universalindentgui (1.2.1-1) unstable; urgency=low
+
+  * New upstream release:
+    - [add] Updated the Uncrustify configuration to support Uncrustify version 0.60.
+
+ -- Foivos S. Zakkak <foivos@zakkak.net>  Mon, 20 Oct 2014 03:08:58 +0200
+
 universalindentgui (1.2.0-1) unstable; urgency=low
 
   * New upstream release:
