@@ -50,7 +50,7 @@ fi
 # Configuration
 # -------------
 #TODO: get version from source code file.
-version=1.2.0
+version=1.2.1
 doSVNUpdate=false
 
 

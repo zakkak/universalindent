@@ -3,9 +3,9 @@
 # Call this script to create the source code archive.
 ./buildRelease.sh
 
-sourcedirname=universalindentgui-1.2.0
+sourcedirname=universalindentgui-1.2.1
 sourcefilename=$sourcedirname.tar.gz
-sourcefilenameorig=universalindentgui_1.2.0.orig.tar.gz
+sourcefilenameorig=universalindentgui_1.2.1.orig.tar.gz
 
 targetDir=packaging
 
