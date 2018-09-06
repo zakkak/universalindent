@@ -39,6 +39,9 @@ public:
     static TSLogger* getInstance(int verboseLevel);
     static TSLogger* getInstance();
     static void messageHandler(QtMsgType type, const char *msg);
+#if QT_VERSION >= 0x050000
+    static void messageHandler(QtMsgType type, const QMessageLogContext &context, const QString &msg);
+#endif
     static void deleteInstance();
     void setVerboseLevel(int level);
 
