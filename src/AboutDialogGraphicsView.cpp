@@ -22,6 +22,7 @@
 #include "AboutDialog.h"
 
 #include <QtGui>
+#include <QApplication>
 #include <QDesktopWidget>
 #include <QDate>
 #include <QTimeLine>

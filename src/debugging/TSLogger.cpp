@@ -153,6 +153,13 @@ void TSLogger::messageHandler(QtMsgType type, const char *msg) {
 }
 
 
+#if QT_VERSION >= 0x050000
+void TSLogger::messageHandler(QtMsgType type, const QMessageLogContext &context, const QString &msg) {
+    messageHandler(type, msg.toLocal8Bit().constData());
+}
+#endif
+
+
 /*!
     \brief Calling this the verbose level can be set in a range from 0 to 3
     which is equal to debug, warning, critical and fatal priority.
